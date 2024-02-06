@@ -5,3 +5,5 @@ This is our submission for the Cincinnati Reds' hackathon
 
 - BB-Analytics-Hackathon.ipynb contains our annotated Jupyter notebook with our final code
 
+- prompt.pdf contains our question prompt
+
